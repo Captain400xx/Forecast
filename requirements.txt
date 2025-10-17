@@ -2,3 +2,4 @@ pandas
 streamlit
 prophet
 matplotlib
+plotly
